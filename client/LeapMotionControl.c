@@ -202,7 +202,7 @@ extern "C"
 
 
                         // b = WriteFile(comHandle, finger[i], 1, &wWLen, NULL);
-                        // b = WriteFile(comHandle, u.c, sizeof(u.c), &wWLen, NULL);  //strlen->sizeof就正常了
+                        // b = WriteFile(comHandle, u.c, sizeof(u.c), &wWLen, NULL);  //strlen->sizeof
                         /*
                         
                         if (dist[i] > 70) {
