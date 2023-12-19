@@ -30,8 +30,6 @@ IMPORTANT: launch the server first, then the client.
 2. ./client.exe
 ```
 
-## Screenshot
-
 
 
 ## License
