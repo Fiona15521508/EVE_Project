@@ -23,6 +23,12 @@ IMPORTANT: launch the server first, then the client.
 2. ./server
 ```
 
+### Final
+
+```
+1. python3 ./main.py
+```
+
 ## Client
 
 ```
